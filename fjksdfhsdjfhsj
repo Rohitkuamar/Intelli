@@ -1,0 +1,23 @@
+[33mcommit edc14104e471c58b764d942af152d30719310568[m[33m ([m[1;36mHEAD -> [m[1;32mchild[m[33m)[m
+Author: Rohit Singh <rohitksingh68@gmail.com>
+Date:   Tue May 4 02:54:01 2021 +0000
+
+    commit in child
+
+[33mcommit d1dae13a11350217c46e9348ac44e22103b719c3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Rohit Singh <rohitksingh68@gmail.com>
+Date:   Tue May 4 02:41:18 2021 +0000
+
+    commit for log
+
+[33mcommit 21a9dc676a943fc77f0699d9d197dddb4fb46788[m
+Author: root <root@ip-172-31-45-13.us-east-2.compute.internal>
+Date:   Tue May 4 02:38:25 2021 +0000
+
+    new commit for log
+
+[33mcommit c9189f777b10d2f0d6f048a9954c0bf10eab8a8b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: root <root@ip-172-31-45-13.us-east-2.compute.internal>
+Date:   Tue May 4 02:20:33 2021 +0000
+
+    my commit
